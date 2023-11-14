@@ -1,1 +1,1 @@
-# expenses-shell
+# expense-shell
