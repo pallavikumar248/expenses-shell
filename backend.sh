@@ -21,4 +21,4 @@ mysql -h mysql-dev.pallavi-practice.co.uk -uroot -pExpenseApp@1 < /app/schema/ba
 
 systemctl daemon-reload
 systemctl enable backend
-systemctl start backend
+systemctl restart backend
